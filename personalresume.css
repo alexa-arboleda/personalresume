@@ -1,0 +1,45 @@
+body {
+background-image: url("IMG_1506.jpg");
+font-family: 'Indie Flower', cursive;
+font-size: 20;
+
+} 
+div{
+padding: 100px;
+}
+
+.top{
+padding: 10px;
+
+}
+
+.fifty img{
+width: 200px; 
+
+}
+.left {
+float:left;
+}
+.right{ 
+float: right;
+}
+
+.center {
+text-align: center;
+margin:0 auto;
+}
+#mainImage{
+text-align: center;
+width: 500px;
+}
+.pinktext {
+color: pink
+}
+
+.justify{ 
+text-align: justify;
+}
+
+.inlineblock{
+display: inline-block;
+}
